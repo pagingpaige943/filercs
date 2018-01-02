@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/media/ouri933/Workspace/learning/vim/vim-practice'
+let g:netrw_dirhist_2='/media/ouri933/Workspace/learning'
+let g:netrw_dirhist_3='/home/ouri933/aliases/custom.aliases.bash'
+let g:netrw_dirhist_4='/media/ouri933/Workspace/learning/reactApp/client/src/actions'
